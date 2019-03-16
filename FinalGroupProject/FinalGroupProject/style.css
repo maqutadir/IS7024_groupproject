@@ -1,0 +1,58 @@
+﻿#header {
+    margin-bottom:0;
+    background-image:url(https://images.homedepot-static.com/productImages/4e5f9e73-ff9c-45f5-b992-607f782f8235/svn/york-wallcoverings-wallpaper-dy0209-64_1000.jpg);
+}
+
+#footer {
+    margin-bottom: 0;
+}
+
+
+#footericon {
+    width: 30px;
+}
+
+.container-fluid {
+    margin-top:30px;
+}
+
+.pics {
+    margin-bottom: 25px;
+    width:200px;
+}
+
+.friend {
+    border-radius: 25px;
+    margin-bottom: 25px;
+    height: 75%;
+    width: 50%;
+    border-color: ActiveBorder;
+    border-style:solid;
+    border-width: 5px;
+}
+
+.parks {
+    width: 80%;
+}
+
+.disneyparks {
+    border-radius: 25px;
+    width: 70%;
+    border-color: ActiveBorder;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.friend:hover, .disneyparks:hover {
+    border-color: gray;
+}
+
+.disneyparks {
+    margin-bottom:10px;
+    max-width:inherit;
+}
+
+.container {
+    margin-top:10px;
+}
+
